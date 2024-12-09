@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishant Rathi</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=82e125c7d904eb9e&sxsrf=ADLYWILvpA7DYYDT5jjyWiQnH1J2wxQETQ:1733733266619&q=programming+gif&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J603JUkR9Y5suk8yuy50qOa0K08TrPholP8ECM8ELoq5GeRrUvU44UjKtPgUX-2DV1UQVKIioKq9YP8hjr2s4XGUs7BYUWgrA1zGzjnSuLz0Rv9SOxJBYa2HuYoyuz0gUJ8I_0DE-GtDv_SDOIZzgEUF8lIMmGKJCeFzaPcqEnsoKlWNMQ&sa=X&ved=2ahUKEwi9vffbo5qKAxV8SmwGHd3jDacQtKgLegQIFhAB&biw=1536&bih=735&dpr=1.25#vhid=dbrfb5dvHO4gVM&vssid=mosaic">
+<h3 align="center">A passionate Java backend developer from India</h3>
+
 
 - 💬 Ask me about **Java,Spring Boot, Hibernate, JSP, Servlet, MySQl, MongoDb**
 
