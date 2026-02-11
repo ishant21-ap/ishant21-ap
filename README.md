@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishant Rathi</h1>
-<h3 align="center">A passionate Java backend developer from India</h3>
+<h3 align="center">A passionate Java Full Stack developer from India</h3>
 
 
-- 💬 Ask me about **Java,Spring Boot, Hibernate, JSP, Servlet, MySQl, MongoDb**
+- 💬 Ask me about **Java,Spring Boot, Hibernate, JSP, Servlet, MySQl, Postgres, Selenium**
 
 - 📫 How to reach me **ishantrathi51@gmail.com**
 
